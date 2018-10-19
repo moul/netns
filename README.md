@@ -1,5 +1,7 @@
 # netns - network namespaces in go #
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/netns.svg)](https://www.guardrails.io)
+
 The netns package provides an ultra-simple interface for handling
 network namespaces in go. Changing namespaces requires elevated
 privileges, so in most cases this code needs to be run as root.
